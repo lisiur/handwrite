@@ -1,0 +1,23 @@
+{
+  "name": "handwrite",
+  "version": "1.0.0",
+  "description": "手写系列",
+  "main": "bind.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisiur/handwrite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisiur/handwrite/issues"
+  },
+  "homepage": "https://github.com/lisiur/handwrite#readme",
+  "dependencies": {
+    "jest": "^25.4.0"
+  }
+}
